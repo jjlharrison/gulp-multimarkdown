@@ -32,6 +32,7 @@
     "multimarkdown": "0.0.15"
   },
   "devDependencies": {
-    "mocha": "*"
+    "mocha": "*",
+    "through2": "^0.4.2"
   }
 }
