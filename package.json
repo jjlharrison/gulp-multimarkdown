@@ -1,6 +1,6 @@
 {
   "name": "gulp-multimarkdown",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "MultiMarkdown to HTML",
   "license": "MIT",
   "repository": "jjlharrison/gulp-multimarkdown",
