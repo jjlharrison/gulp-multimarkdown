@@ -1,6 +1,6 @@
 # gulp-multimarkdown
 
-[![NPM version][npm-image]][npm-url] [![Build Status](https://travis-ci.org/jjlharrison/gulp-multimarkdown.svg?branch=master)](https://travis-ci.org/jjlharrison/gulp-multimarkdown) [![Dependency Status](https://david-dm.org/jjlharrison/gulp-multimarkdown.svg)](https://david-dm.org/jjlharrison/gulp-multimarkdown)
+[![NPM version](https://badge.fury.io/js/gulp-multimarkdown.svg)](http://badge.fury.io/js/gulp-multimarkdown) [![Build Status](https://travis-ci.org/jjlharrison/gulp-multimarkdown.svg?branch=master)](https://travis-ci.org/jjlharrison/gulp-multimarkdown) [![Dependency Status](https://david-dm.org/jjlharrison/gulp-multimarkdown.svg)](https://david-dm.org/jjlharrison/gulp-multimarkdown)
 
 [MultiMarkdown](http://fletcherpenney.net/multimarkdown/) Plugin for [Gulp](http://gulpjs.com).
 
