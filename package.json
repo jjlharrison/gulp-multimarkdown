@@ -1,0 +1,37 @@
+{
+  "name": "gulp-multimarkdown",
+  "version": "0.0.1",
+  "description": "MultiMarkdown to HTML",
+  "license": "MIT",
+  "repository": "jjlharrison/gulp-multimarkdown",
+  "author": {
+    "name": "James Harrison",
+    "email": "james@jjlharrison.me.uk"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "gulpplugin",
+    "multimarkdown",
+    "md",
+    "compile",
+    "convert",
+    "markup",
+    "html"
+  ],
+  "dependencies": {
+    "gulp-util": "~2.2.0",
+    "through2": "~0.4.0",
+    "multimarkdown": "0.0.15"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  }
+}
