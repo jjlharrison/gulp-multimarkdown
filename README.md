@@ -1,6 +1,6 @@
 # gulp-multimarkdown
 
-[![NPM version](https://badge.fury.io/js/gulp-multimarkdown.svg)](http://badge.fury.io/js/gulp-multimarkdown) [![Build Status](https://travis-ci.org/jjlharrison/gulp-multimarkdown.svg?branch=master)](https://travis-ci.org/jjlharrison/gulp-multimarkdown) [![Dependency Status](https://david-dm.org/jjlharrison/gulp-multimarkdown.svg)](https://david-dm.org/jjlharrison/gulp-multimarkdown)
+[![MIT Licence][licence-image]][licence-url] [![NPM Version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][david-dm-image]][david-dm-url]
 
 [MultiMarkdown](http://fletcherpenney.net/multimarkdown/) Plugin for [Gulp](http://gulpjs.com).
 
@@ -26,7 +26,11 @@ gulp.task('default', function () {
 });
 ```
 
-
-## License
-
-[MIT](http://opensource.org/licenses/MIT) [TL;DR](https://tldrlegal.com/license/mit-license)
+[david-dm-image]: http://img.shields.io/david/jjlharrison/gulp-multimarkdown.svg?style=flat
+[david-dm-url]: https://david-dm.org/jjlharrison/gulp-multimarkdown
+[npm-image]: http://img.shields.io/npm/v/gulp-multimarkdown.svg?style=flat
+[npm-url]: https://www.npmjs.org/package/gulp-multimarkdown
+[travis-image]: http://img.shields.io/travis/jjlharrison/gulp-multimarkdown.svg?style=flat
+[travis-url]: https://travis-ci.org/jjlharrison/gulp-multimarkdown
+[licence-image]: http://img.shields.io/npm/l/gulp-multimarkdown.svg?style=flat
+[licence-url]: https://tldrlegal.com/license/mit-license
