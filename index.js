@@ -12,7 +12,7 @@
 			}
 
 			if (file.isStream()) {
-				this.emit('error', new gutil.PluginError('gulp-markdown', 'Streaming not supported'));
+				this.emit('error', new gutil.PluginError('gulp-multimarkdown', 'Streaming not supported'));
 				return cb();
 			}
 
